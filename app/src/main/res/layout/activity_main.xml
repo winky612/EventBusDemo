@@ -33,5 +33,24 @@
             android:text="other" />
     </RadioGroup>
 
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rg" />
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="点击打开新的Activity"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@id/tv_text"/>
+
 
 </android.support.constraint.ConstraintLayout>

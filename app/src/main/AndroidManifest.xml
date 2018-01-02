@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".PracActivity"></activity>
+        <activity android:name=".eventbusdemo1.SecondActivity"></activity>
     </application>
 
 </manifest>
