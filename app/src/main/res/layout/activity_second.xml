@@ -10,5 +10,34 @@
         android:gravity="center"
         android:text="发送消息"
         />
+    <Button
+        android:id="@+id/btn_sendStickyMessage1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="发送粘性消息1"
+        />
+    <Button
+        android:id="@+id/btn_sendStickyMessage2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="发送粘性消息2"
+        />
+    <Button
+        android:id="@+id/btn_sendStickyMessage3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="发送粘性消息3"
+        />
+    <Button
+        android:id="@+id/btn_sendStickyMessage4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="发送粘性消息4"
+        />
+
 
 </LinearLayout>

@@ -1,4 +1,4 @@
-package com.zkhz.eventbusdemo;
+package com.zkhz.eventbusdemo.logdemo;
 
 /**
  * Created by Administrator on 2017/12/28 0028.
